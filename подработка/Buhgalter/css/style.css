@@ -1,0 +1,87 @@
+
+body{
+	font-family: 'Times New Roman';
+	background-color: #E6E6DC;
+	border-radius: 10px;
+}
+.block1{
+	padding: 20px;
+}
+	a{
+	text-decoration: none;
+	font-size: 120%;
+	margin:10px;
+}
+header{ 
+	background-color: lightgray;
+	height: 60px;
+	position: fixed;
+
+ }
+ 
+ 	.photo{
+ 		height: 400px;
+ 		width: 400px;
+ 		background-color: #f4c364;
+ 		margin: 20px;
+ 		padding: 30px;
+ 		font-size: 120%;
+ 	}
+ 	.i-can{
+ 		height: 400px;
+ 		width: 400px;
+ 		background-color: #f2d397;
+ 		margin: 20px;
+ 		padding: 30px;
+  	}
+  	.price{
+ 		height: 400px;
+ 		width: 400px;
+ 		background-color: #f4f188;
+ 		margin: 20px;
+ 		padding: 30px;
+
+ 	}
+ 	.comment{
+ 		height: auto;
+ 		width: auto;
+ 		background-color: lightgray;
+ 		margin: 20px;
+ 		padding: 30px;
+
+ 	}
+
+ul{
+	width: auto;
+	list-style: none;
+	margin: 0;
+	padding: 20px;
+	/*margin-right: 40px;*/
+		
+	color: green;
+	margin-left: auto;
+	margin-right: auto;
+	/*width: 40+em;*/
+}
+li{
+	border: 4px;
+	display: inline;
+}
+header {
+	line-height: bold;
+}
+table {
+    width: auto; /* Ширина таблицы */
+    border-collapse: collapse; /* Убираем двойные линии между ячейками */
+    border-radius: 2px;
+   }
+   td,th {
+    padding: 3px; /* Поля вокруг содержимого таблицы */
+    border: 1px solid black; /* Параметры рамки */
+   }
+   th {
+    background: #b0e0e6; /* Цвет фона */
+   }
+.footer{
+
+}
